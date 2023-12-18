@@ -31,7 +31,9 @@ Instantiate(Tree, new Vector3(2, 0, 0), Quaternion.identity);\
 
 <img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image2.png" width="300"/>
 
-5. Можно создать скрипт и использовать команду Instantiate(Box, new Vector3(0, 0, j), Quaternion.identity);
+5. Можно создать скрипт и использовать команду
+
+Instantiate(Tree, new Vector3(0, 0, 0), Quaternion.identity);
 
 Пример скрипта:
 
