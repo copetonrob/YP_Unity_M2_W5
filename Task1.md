@@ -23,7 +23,11 @@ Instantiate(Tree, new Vector3(2, 0, 0), Quaternion.identity);\
 1. Откройте Unity и создайте новый проект.
 2. Создайте префаб любого объекта (элемент сада, городской элемент), в примере это дерево.
 3. Создайте полосу из одинаковых объектов (10-15 штук) на одинаковом расстоянии друг от друга.
-4. Можно расставить объекты вручную, скопировав их несколько раз и явно указав позицию в компоненте transform\<img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image2.png" width="300"/>
-5. Можно создать скрипт и использовать команду Instantiate(Box, new Vector3(0, 0, j), Quaternion.identity);\Пример скрипта:\<img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image1.png" width="600"/>
-6. Если вы выполняете задание скриптом, то не забудьте создать объект в сцене, добавить в него компонент с вашим скриптом и назначить ссылку на префаб дерева в публичное поле.\<img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image3.png" width="300"/>
+4. Можно расставить объекты вручную, скопировав их несколько раз и явно указав позицию в компоненте transform\
+<img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image2.png" width="300"/>
+5. Можно создать скрипт и использовать команду Instantiate(Box, new Vector3(0, 0, j), Quaternion.identity);\
+Пример скрипта:\
+<img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image1.png" width="600"/>
+6. Если вы выполняете задание скриптом, то не забудьте создать объект в сцене, добавить в него компонент с вашим скриптом и назначить ссылку на префаб дерева в публичное поле.\
+<img src="https://github.com/copetonrob/YP_Unity_M2_W5/blob/main/img/T1_image3.png" width="300"/>
 
